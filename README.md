@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugata23&label=Profile%20views&color=0e75b6&style=flat" alt="sugata23" /> </p>
 
-- 🔭 I’m currently working on **Food Delivery Website**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **Javascript, Reacts**
 

@@ -4,11 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sugata23&label=Profile%20views&color=0e75b6&style=flat" alt="sugata23" /> </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
+- 🌱 Passionate about building innovative solutions
 
-- 🌱 I’m currently learning **Javascript, Reacts**
+- 💻 Exploring the realms of code and creativity
 
-- 💬 Ask me about **C++,CSS**
+- 📚 Constantly learning, growing, and sharing knowledge
+  
+- 🌍 Making the world a better place through technology
+
+- ⚡ Let's collaborate and create something amazing!
 
 - 📫 How to reach me **sarkarsugata57@gmail.com**
 

@@ -48,4 +48,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sugata23&show_icons=true&locale=en" alt="sugata23" /></p>
 
 ## 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugata23&" alt="sugata23" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Sugata23" alt="sugata23" /></p>
